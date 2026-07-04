@@ -1,0 +1,30 @@
+team,match_type,count,source_note,weight,weighted_score
+Argentina,Official win,18,Recent senior international wins,1.0,18.0
+France,Official win,16,High-level senior tournament wins,1.0,16.0
+England,Official win,14,Senior qualification and tournament wins,1.0,14.0
+Spain,Official win,17,Senior international wins,1.0,17.0
+Brazil,Official win,13,Senior international wins,1.0,13.0
+Germany,Official win,12,Senior international wins,1.0,12.0
+Portugal,Official win,14,Senior international wins,1.0,14.0
+Netherlands,Official win,12,Senior international wins,1.0,12.0
+Argentina,Draw,5,Senior draws,0.5,2.5
+France,Draw,4,Senior draws,0.5,2.0
+England,Draw,5,Senior draws,0.5,2.5
+Spain,Draw,3,Senior draws,0.5,1.5
+Brazil,Draw,5,Senior draws,0.5,2.5
+Germany,Draw,4,Senior draws,0.5,2.0
+Portugal,Draw,4,Senior draws,0.5,2.0
+Netherlands,Draw,5,Senior draws,0.5,2.5
+Argentina,Non-official win,3,Friendlies and non-official senior wins,0.3,0.8999999999999999
+France,Non-official win,2,Friendlies and non-official senior wins,0.3,0.6
+England,Non-official win,3,Friendlies and non-official senior wins,0.3,0.8999999999999999
+Spain,Non-official win,4,Friendlies and non-official senior wins,0.3,1.2
+Brazil,Non-official win,5,Friendlies and non-official senior wins,0.3,1.5
+Germany,Non-official win,3,Friendlies and non-official senior wins,0.3,0.8999999999999999
+Portugal,Non-official win,3,Friendlies and non-official senior wins,0.3,0.8999999999999999
+Netherlands,Non-official win,2,Friendlies and non-official senior wins,0.3,0.6
+Spain,Youth or U17 match,8,Youth pipeline signal,0.2,1.6
+France,Youth or U17 match,7,Youth pipeline signal,0.2,1.4
+England,Youth or U17 match,7,Youth pipeline signal,0.2,1.4
+Brazil,Youth or U17 match,6,Youth pipeline signal,0.2,1.2000000000000002
+Morocco,Official win,1,Manual indexed signal from user research,1.0,1.0

@@ -1,0 +1,62 @@
+{
+  "matches": 684,
+  "features": 27,
+  "teams": 23,
+  "leagues": [
+    "Premier League"
+  ],
+  "seasons": [
+    2024,
+    2025
+  ],
+  "data_source": [
+    "openfootball public EPL Football.TXT cache"
+  ],
+  "model_name": "Logistic Regression",
+  "metrics": {
+    "accuracy": 0.4901,
+    "precision": 0.4816,
+    "recall": 0.4901,
+    "f1": 0.4853,
+    "cv_mean": 0.4545,
+    "cv_std": 0.0174
+  },
+  "top_features": [
+    {
+      "feature": "away_defense_rating",
+      "importance": 0.4959677937873915
+    },
+    {
+      "feature": "home_team_strength",
+      "importance": 0.3563618920062506
+    },
+    {
+      "feature": "home_defense_rating",
+      "importance": 0.30403072169714096
+    },
+    {
+      "feature": "home_avg_goals",
+      "importance": 0.2969943161038083
+    },
+    {
+      "feature": "away_avg_goals",
+      "importance": 0.2726201352647069
+    },
+    {
+      "feature": "away_team_strength",
+      "importance": 0.24176060452485004
+    }
+  ],
+  "labels": [
+    "Away Win",
+    "Draw",
+    "Home Win"
+  ],
+  "training_info": {
+    "training_rows": 533,
+    "testing_rows": 151,
+    "dataset_rows": 684,
+    "random_state": 42,
+    "target": "result"
+  }
+}

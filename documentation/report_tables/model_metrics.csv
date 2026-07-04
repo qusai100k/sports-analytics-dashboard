@@ -1,0 +1,7 @@
+Metric,Value (%)
+Accuracy,49.01
+Precision,48.16
+Recall,49.01
+F1,48.53
+Cv Mean,45.45
+Cv Std,1.74

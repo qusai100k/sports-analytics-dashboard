@@ -1,0 +1,11 @@
+feature,importance
+away_defense_rating,0.496
+home_team_strength,0.3564
+home_defense_rating,0.304
+home_avg_goals,0.297
+away_avg_goals,0.2726
+away_team_strength,0.2418
+home_recent_form,0.1297
+team_strength_delta,0.1246
+form_delta,0.0727
+away_recent_form,0.065

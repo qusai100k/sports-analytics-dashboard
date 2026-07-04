@@ -1,0 +1,137 @@
+{
+  "dataset_summary": [
+    {
+      "Item": "Rows",
+      "Value": 684
+    },
+    {
+      "Item": "Columns",
+      "Value": 27
+    },
+    {
+      "Item": "Unique teams",
+      "Value": 23
+    },
+    {
+      "Item": "Leagues",
+      "Value": "Premier League"
+    },
+    {
+      "Item": "Seasons",
+      "Value": "2024, 2025"
+    },
+    {
+      "Item": "Missing values",
+      "Value": 0
+    },
+    {
+      "Item": "Duplicate rows",
+      "Value": 0
+    },
+    {
+      "Item": "Data source",
+      "Value": "openfootball public EPL Football.TXT cache"
+    }
+  ],
+  "metrics": [
+    {
+      "Metric": "Accuracy",
+      "Value (%)": 49.01
+    },
+    {
+      "Metric": "Precision",
+      "Value (%)": 48.16
+    },
+    {
+      "Metric": "Recall",
+      "Value (%)": 49.01
+    },
+    {
+      "Metric": "F1",
+      "Value (%)": 48.53
+    },
+    {
+      "Metric": "Cv Mean",
+      "Value (%)": 45.45
+    },
+    {
+      "Metric": "Cv Std",
+      "Value (%)": 1.74
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "away_defense_rating",
+      "importance": 0.496
+    },
+    {
+      "feature": "home_team_strength",
+      "importance": 0.3564
+    },
+    {
+      "feature": "home_defense_rating",
+      "importance": 0.304
+    },
+    {
+      "feature": "home_avg_goals",
+      "importance": 0.297
+    },
+    {
+      "feature": "away_avg_goals",
+      "importance": 0.2726
+    },
+    {
+      "feature": "away_team_strength",
+      "importance": 0.2418
+    },
+    {
+      "feature": "home_recent_form",
+      "importance": 0.1297
+    },
+    {
+      "feature": "team_strength_delta",
+      "importance": 0.1246
+    },
+    {
+      "feature": "form_delta",
+      "importance": 0.0727
+    },
+    {
+      "feature": "away_recent_form",
+      "importance": 0.065
+    }
+  ],
+  "confusion_matrix": [
+    {
+      "Actual": "Away Win",
+      "Away Win": 26,
+      "Draw": 11,
+      "Home Win": 11
+    },
+    {
+      "Actual": "Draw",
+      "Away Win": 15,
+      "Draw": 9,
+      "Home Win": 15
+    },
+    {
+      "Actual": "Home Win",
+      "Away Win": 11,
+      "Draw": 14,
+      "Home Win": 39
+    }
+  ],
+  "model_name": "Logistic Regression",
+  "labels": [
+    "Away Win",
+    "Draw",
+    "Home Win"
+  ],
+  "training_info": {
+    "training_rows": 533,
+    "testing_rows": 151,
+    "dataset_rows": 684,
+    "random_state": 42,
+    "target": "result"
+  }
+}

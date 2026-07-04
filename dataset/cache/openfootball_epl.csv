@@ -1,0 +1,685 @@
+date,season,league,home_team,away_team,home_goals,away_goals,home_shots,away_shots,result
+2024-08-16,2024,Premier League,Manchester United,Fulham,1,0,0,0,Home Win
+2024-08-17,2024,Premier League,Ipswich Town,Liverpool,0,2,0,0,Away Win
+2024-08-17,2024,Premier League,Arsenal,Wolverhampton Wanderers,2,0,0,0,Home Win
+2024-08-17,2024,Premier League,Everton,Brighton,0,3,0,0,Away Win
+2024-08-17,2024,Premier League,Newcastle United,Southampton,1,0,0,0,Home Win
+2024-08-17,2024,Premier League,Nottingham Forest,Bournemouth,1,1,0,0,Draw
+2024-08-17,2024,Premier League,West Ham United,Aston Villa,1,2,0,0,Away Win
+2024-08-18,2024,Premier League,Brentford,Crystal Palace,2,1,0,0,Home Win
+2024-08-18,2024,Premier League,Chelsea,Manchester City,0,2,0,0,Away Win
+2024-08-19,2024,Premier League,Leicester City,Tottenham Hotspur,1,1,0,0,Draw
+2024-08-24,2024,Premier League,Crystal Palace,West Ham United,0,2,0,0,Away Win
+2024-08-24,2024,Premier League,Fulham,Leicester City,2,1,0,0,Home Win
+2024-08-24,2024,Premier League,Manchester City,Ipswich Town,4,1,0,0,Home Win
+2024-08-24,2024,Premier League,Southampton,Nottingham Forest,0,1,0,0,Away Win
+2024-08-24,2024,Premier League,Tottenham Hotspur,Everton,4,0,0,0,Home Win
+2024-08-24,2024,Premier League,Aston Villa,Arsenal,0,2,0,0,Away Win
+2024-08-25,2024,Premier League,Bournemouth,Newcastle United,1,1,0,0,Draw
+2024-08-25,2024,Premier League,Liverpool,Brentford,2,0,0,0,Home Win
+2024-08-31,2024,Premier League,Arsenal,Brighton,1,1,0,0,Draw
+2024-08-31,2024,Premier League,Brentford,Southampton,3,1,0,0,Home Win
+2024-08-31,2024,Premier League,Everton,Bournemouth,2,3,0,0,Away Win
+2024-08-31,2024,Premier League,Ipswich Town,Fulham,1,1,0,0,Draw
+2024-08-31,2024,Premier League,Leicester City,Aston Villa,1,2,0,0,Away Win
+2024-08-31,2024,Premier League,Nottingham Forest,Wolverhampton Wanderers,1,1,0,0,Draw
+2024-08-31,2024,Premier League,West Ham United,Manchester City,1,3,0,0,Away Win
+2024-09-01,2024,Premier League,Chelsea,Crystal Palace,1,1,0,0,Draw
+2024-09-01,2024,Premier League,Newcastle United,Tottenham Hotspur,2,1,0,0,Home Win
+2024-09-01,2024,Premier League,Manchester United,Liverpool,0,3,0,0,Away Win
+2024-09-14,2024,Premier League,Southampton,Manchester United,0,3,0,0,Away Win
+2024-09-14,2024,Premier League,Crystal Palace,Leicester City,2,2,0,0,Draw
+2024-09-14,2024,Premier League,Fulham,West Ham United,1,1,0,0,Draw
+2024-09-14,2024,Premier League,Liverpool,Nottingham Forest,0,1,0,0,Away Win
+2024-09-14,2024,Premier League,Manchester City,Brentford,2,1,0,0,Home Win
+2024-09-14,2024,Premier League,Aston Villa,Everton,3,2,0,0,Home Win
+2024-09-14,2024,Premier League,Bournemouth,Chelsea,0,1,0,0,Away Win
+2024-09-15,2024,Premier League,Tottenham Hotspur,Arsenal,0,1,0,0,Away Win
+2024-09-21,2024,Premier League,West Ham United,Chelsea,0,3,0,0,Away Win
+2024-09-21,2024,Premier League,Aston Villa,Wolverhampton Wanderers,3,1,0,0,Home Win
+2024-09-21,2024,Premier League,Fulham,Newcastle United,3,1,0,0,Home Win
+2024-09-21,2024,Premier League,Leicester City,Everton,1,1,0,0,Draw
+2024-09-21,2024,Premier League,Liverpool,Bournemouth,3,0,0,0,Home Win
+2024-09-21,2024,Premier League,Southampton,Ipswich Town,1,1,0,0,Draw
+2024-09-21,2024,Premier League,Tottenham Hotspur,Brentford,3,1,0,0,Home Win
+2024-09-21,2024,Premier League,Crystal Palace,Manchester United,0,0,0,0,Draw
+2024-09-22,2024,Premier League,Manchester City,Arsenal,2,2,0,0,Draw
+2024-09-28,2024,Premier League,Newcastle United,Manchester City,1,1,0,0,Draw
+2024-09-28,2024,Premier League,Arsenal,Leicester City,4,2,0,0,Home Win
+2024-09-28,2024,Premier League,Brentford,West Ham United,1,1,0,0,Draw
+2024-09-28,2024,Premier League,Chelsea,Brighton,4,2,0,0,Home Win
+2024-09-28,2024,Premier League,Everton,Crystal Palace,2,1,0,0,Home Win
+2024-09-28,2024,Premier League,Nottingham Forest,Fulham,0,1,0,0,Away Win
+2024-09-29,2024,Premier League,Ipswich Town,Aston Villa,2,2,0,0,Draw
+2024-09-29,2024,Premier League,Manchester United,Tottenham Hotspur,0,3,0,0,Away Win
+2024-09-30,2024,Premier League,Bournemouth,Southampton,3,1,0,0,Home Win
+2024-10-05,2024,Premier League,Crystal Palace,Liverpool,0,1,0,0,Away Win
+2024-10-05,2024,Premier League,Arsenal,Southampton,3,1,0,0,Home Win
+2024-10-05,2024,Premier League,Brentford,Wolverhampton Wanderers,5,3,0,0,Home Win
+2024-10-05,2024,Premier League,Leicester City,Bournemouth,1,0,0,0,Home Win
+2024-10-05,2024,Premier League,Manchester City,Fulham,3,2,0,0,Home Win
+2024-10-05,2024,Premier League,West Ham United,Ipswich Town,4,1,0,0,Home Win
+2024-10-05,2024,Premier League,Everton,Newcastle United,0,0,0,0,Draw
+2024-10-06,2024,Premier League,Aston Villa,Manchester United,0,0,0,0,Draw
+2024-10-06,2024,Premier League,Chelsea,Nottingham Forest,1,1,0,0,Draw
+2024-10-19,2024,Premier League,Tottenham Hotspur,West Ham United,4,1,0,0,Home Win
+2024-10-19,2024,Premier League,Fulham,Aston Villa,1,3,0,0,Away Win
+2024-10-19,2024,Premier League,Ipswich Town,Everton,0,2,0,0,Away Win
+2024-10-19,2024,Premier League,Manchester United,Brentford,2,1,0,0,Home Win
+2024-10-19,2024,Premier League,Newcastle United,Brighton,0,1,0,0,Away Win
+2024-10-19,2024,Premier League,Southampton,Leicester City,2,3,0,0,Away Win
+2024-10-19,2024,Premier League,Bournemouth,Arsenal,2,0,0,0,Home Win
+2024-10-20,2024,Premier League,Liverpool,Chelsea,2,1,0,0,Home Win
+2024-10-21,2024,Premier League,Nottingham Forest,Crystal Palace,1,0,0,0,Home Win
+2024-10-25,2024,Premier League,Leicester City,Nottingham Forest,1,3,0,0,Away Win
+2024-10-26,2024,Premier League,Aston Villa,Bournemouth,1,1,0,0,Draw
+2024-10-26,2024,Premier League,Brentford,Ipswich Town,4,3,0,0,Home Win
+2024-10-26,2024,Premier League,Manchester City,Southampton,1,0,0,0,Home Win
+2024-10-26,2024,Premier League,Everton,Fulham,1,1,0,0,Draw
+2024-10-27,2024,Premier League,Chelsea,Newcastle United,2,1,0,0,Home Win
+2024-10-27,2024,Premier League,Crystal Palace,Tottenham Hotspur,1,0,0,0,Home Win
+2024-10-27,2024,Premier League,West Ham United,Manchester United,2,1,0,0,Home Win
+2024-10-27,2024,Premier League,Arsenal,Liverpool,2,2,0,0,Draw
+2024-11-02,2024,Premier League,Newcastle United,Arsenal,1,0,0,0,Home Win
+2024-11-02,2024,Premier League,Bournemouth,Manchester City,2,1,0,0,Home Win
+2024-11-02,2024,Premier League,Ipswich Town,Leicester City,1,1,0,0,Draw
+2024-11-02,2024,Premier League,Liverpool,Brighton,2,1,0,0,Home Win
+2024-11-02,2024,Premier League,Nottingham Forest,West Ham United,3,0,0,0,Home Win
+2024-11-02,2024,Premier League,Southampton,Everton,1,0,0,0,Home Win
+2024-11-03,2024,Premier League,Tottenham Hotspur,Aston Villa,4,1,0,0,Home Win
+2024-11-03,2024,Premier League,Manchester United,Chelsea,1,1,0,0,Draw
+2024-11-04,2024,Premier League,Fulham,Brentford,2,1,0,0,Home Win
+2024-11-09,2024,Premier League,Brentford,Bournemouth,3,2,0,0,Home Win
+2024-11-09,2024,Premier League,Crystal Palace,Fulham,0,2,0,0,Away Win
+2024-11-09,2024,Premier League,West Ham United,Everton,0,0,0,0,Draw
+2024-11-09,2024,Premier League,Liverpool,Aston Villa,2,0,0,0,Home Win
+2024-11-10,2024,Premier League,Manchester United,Leicester City,3,0,0,0,Home Win
+2024-11-10,2024,Premier League,Nottingham Forest,Newcastle United,1,3,0,0,Away Win
+2024-11-10,2024,Premier League,Tottenham Hotspur,Ipswich Town,1,2,0,0,Away Win
+2024-11-10,2024,Premier League,Chelsea,Arsenal,1,1,0,0,Draw
+2024-11-23,2024,Premier League,Leicester City,Chelsea,1,2,0,0,Away Win
+2024-11-23,2024,Premier League,Bournemouth,Brighton,1,2,0,0,Away Win
+2024-11-23,2024,Premier League,Arsenal,Nottingham Forest,3,0,0,0,Home Win
+2024-11-23,2024,Premier League,Aston Villa,Crystal Palace,2,2,0,0,Draw
+2024-11-23,2024,Premier League,Everton,Brentford,0,0,0,0,Draw
+2024-11-23,2024,Premier League,Fulham,Wolverhampton Wanderers,1,4,0,0,Away Win
+2024-11-23,2024,Premier League,Manchester City,Tottenham Hotspur,0,4,0,0,Away Win
+2024-11-24,2024,Premier League,Southampton,Liverpool,2,3,0,0,Away Win
+2024-11-24,2024,Premier League,Ipswich Town,Manchester United,1,1,0,0,Draw
+2024-11-25,2024,Premier League,Newcastle United,West Ham United,0,2,0,0,Away Win
+2024-11-30,2024,Premier League,Brentford,Leicester City,4,1,0,0,Home Win
+2024-11-30,2024,Premier League,Crystal Palace,Newcastle United,1,1,0,0,Draw
+2024-11-30,2024,Premier League,Nottingham Forest,Ipswich Town,1,0,0,0,Home Win
+2024-11-30,2024,Premier League,West Ham United,Arsenal,2,5,0,0,Away Win
+2024-12-01,2024,Premier League,Chelsea,Aston Villa,3,0,0,0,Home Win
+2024-12-01,2024,Premier League,Manchester United,Everton,4,0,0,0,Home Win
+2024-12-01,2024,Premier League,Tottenham Hotspur,Fulham,1,1,0,0,Draw
+2024-12-01,2024,Premier League,Liverpool,Manchester City,2,0,0,0,Home Win
+2024-12-03,2024,Premier League,Ipswich Town,Crystal Palace,0,1,0,0,Away Win
+2024-12-03,2024,Premier League,Leicester City,West Ham United,3,1,0,0,Home Win
+2024-12-04,2024,Premier League,Everton,Wolverhampton Wanderers,4,0,0,0,Home Win
+2024-12-04,2024,Premier League,Manchester City,Nottingham Forest,3,0,0,0,Home Win
+2024-12-04,2024,Premier League,Newcastle United,Liverpool,3,3,0,0,Draw
+2024-12-04,2024,Premier League,Southampton,Chelsea,1,5,0,0,Away Win
+2024-12-04,2024,Premier League,Arsenal,Manchester United,2,0,0,0,Home Win
+2024-12-04,2024,Premier League,Aston Villa,Brentford,3,1,0,0,Home Win
+2024-12-05,2024,Premier League,Fulham,Brighton,3,1,0,0,Home Win
+2024-12-05,2024,Premier League,Bournemouth,Tottenham Hotspur,1,0,0,0,Home Win
+2024-12-07,2024,Premier League,Aston Villa,Southampton,1,0,0,0,Home Win
+2024-12-07,2024,Premier League,Brentford,Newcastle United,4,2,0,0,Home Win
+2024-12-07,2024,Premier League,Crystal Palace,Manchester City,2,2,0,0,Draw
+2024-12-07,2024,Premier League,Manchester United,Nottingham Forest,2,3,0,0,Away Win
+2024-12-08,2024,Premier League,Fulham,Arsenal,1,1,0,0,Draw
+2024-12-08,2024,Premier League,Ipswich Town,Bournemouth,1,2,0,0,Away Win
+2024-12-08,2024,Premier League,Leicester City,Brighton,2,2,0,0,Draw
+2024-12-08,2024,Premier League,Tottenham Hotspur,Chelsea,3,4,0,0,Away Win
+2024-12-09,2024,Premier League,West Ham United,Wolverhampton Wanderers,2,1,0,0,Home Win
+2024-12-14,2024,Premier League,Arsenal,Everton,0,0,0,0,Draw
+2024-12-14,2024,Premier League,Liverpool,Fulham,2,2,0,0,Draw
+2024-12-14,2024,Premier League,Newcastle United,Leicester City,4,0,0,0,Home Win
+2024-12-14,2024,Premier League,Nottingham Forest,Aston Villa,2,1,0,0,Home Win
+2024-12-15,2024,Premier League,Manchester City,Manchester United,1,2,0,0,Away Win
+2024-12-15,2024,Premier League,Chelsea,Brentford,2,1,0,0,Home Win
+2024-12-15,2024,Premier League,Southampton,Tottenham Hotspur,0,5,0,0,Away Win
+2024-12-16,2024,Premier League,Bournemouth,West Ham United,1,1,0,0,Draw
+2024-12-21,2024,Premier League,Aston Villa,Manchester City,2,1,0,0,Home Win
+2024-12-21,2024,Premier League,Brentford,Nottingham Forest,0,2,0,0,Away Win
+2024-12-21,2024,Premier League,Ipswich Town,Newcastle United,0,4,0,0,Away Win
+2024-12-21,2024,Premier League,West Ham United,Brighton,1,1,0,0,Draw
+2024-12-21,2024,Premier League,Crystal Palace,Arsenal,1,5,0,0,Away Win
+2024-12-22,2024,Premier League,Everton,Chelsea,0,0,0,0,Draw
+2024-12-22,2024,Premier League,Fulham,Southampton,0,0,0,0,Draw
+2024-12-22,2024,Premier League,Leicester City,Wolverhampton Wanderers,0,3,0,0,Away Win
+2024-12-22,2024,Premier League,Manchester United,Bournemouth,0,3,0,0,Away Win
+2024-12-22,2024,Premier League,Tottenham Hotspur,Liverpool,3,6,0,0,Away Win
+2024-12-26,2024,Premier League,Manchester City,Everton,1,1,0,0,Draw
+2024-12-26,2024,Premier League,Bournemouth,Crystal Palace,0,0,0,0,Draw
+2024-12-26,2024,Premier League,Chelsea,Fulham,1,2,0,0,Away Win
+2024-12-26,2024,Premier League,Newcastle United,Aston Villa,3,0,0,0,Home Win
+2024-12-26,2024,Premier League,Nottingham Forest,Tottenham Hotspur,1,0,0,0,Home Win
+2024-12-26,2024,Premier League,Southampton,West Ham United,0,1,0,0,Away Win
+2024-12-26,2024,Premier League,Liverpool,Leicester City,3,1,0,0,Home Win
+2024-12-27,2024,Premier League,Arsenal,Ipswich Town,1,0,0,0,Home Win
+2024-12-29,2024,Premier League,Leicester City,Manchester City,0,2,0,0,Away Win
+2024-12-29,2024,Premier League,Crystal Palace,Southampton,2,1,0,0,Home Win
+2024-12-29,2024,Premier League,Everton,Nottingham Forest,0,2,0,0,Away Win
+2024-12-29,2024,Premier League,Fulham,Bournemouth,2,2,0,0,Draw
+2024-12-29,2024,Premier League,Tottenham Hotspur,Wolverhampton Wanderers,2,2,0,0,Draw
+2024-12-29,2024,Premier League,West Ham United,Liverpool,0,5,0,0,Away Win
+2024-12-30,2024,Premier League,Aston Villa,Brighton,2,2,0,0,Draw
+2024-12-30,2024,Premier League,Ipswich Town,Chelsea,2,0,0,0,Home Win
+2024-12-30,2024,Premier League,Manchester United,Newcastle United,0,2,0,0,Away Win
+2025-01-01,2024,Premier League,Brentford,Arsenal,1,3,0,0,Away Win
+2025-01-04,2024,Premier League,Tottenham Hotspur,Newcastle United,1,2,0,0,Away Win
+2025-01-04,2024,Premier League,Southampton,Brentford,0,5,0,0,Away Win
+2025-01-04,2024,Premier League,Crystal Palace,Chelsea,1,1,0,0,Draw
+2025-01-04,2024,Premier League,Bournemouth,Everton,1,0,0,0,Home Win
+2025-01-04,2024,Premier League,Aston Villa,Leicester City,2,1,0,0,Home Win
+2025-01-04,2024,Premier League,Manchester City,West Ham United,4,1,0,0,Home Win
+2025-01-05,2024,Premier League,Fulham,Ipswich Town,2,2,0,0,Draw
+2025-01-05,2024,Premier League,Liverpool,Manchester United,2,2,0,0,Draw
+2025-01-14,2024,Premier League,West Ham United,Fulham,3,2,0,0,Home Win
+2025-01-14,2024,Premier League,Brentford,Manchester City,2,2,0,0,Draw
+2025-01-14,2024,Premier League,Chelsea,Bournemouth,2,2,0,0,Draw
+2025-01-14,2024,Premier League,Nottingham Forest,Liverpool,1,1,0,0,Draw
+2025-01-15,2024,Premier League,Everton,Aston Villa,0,1,0,0,Away Win
+2025-01-15,2024,Premier League,Leicester City,Crystal Palace,0,2,0,0,Away Win
+2025-01-15,2024,Premier League,Newcastle United,Wolverhampton Wanderers,3,0,0,0,Home Win
+2025-01-15,2024,Premier League,Arsenal,Tottenham Hotspur,2,1,0,0,Home Win
+2025-01-16,2024,Premier League,Ipswich Town,Brighton,0,2,0,0,Away Win
+2025-01-16,2024,Premier League,Manchester United,Southampton,3,1,0,0,Home Win
+2025-01-18,2024,Premier League,Newcastle United,Bournemouth,1,4,0,0,Away Win
+2025-01-18,2024,Premier League,West Ham United,Crystal Palace,0,2,0,0,Away Win
+2025-01-18,2024,Premier League,Leicester City,Fulham,0,2,0,0,Away Win
+2025-01-18,2024,Premier League,Brentford,Liverpool,0,2,0,0,Away Win
+2025-01-18,2024,Premier League,Arsenal,Aston Villa,2,2,0,0,Draw
+2025-01-19,2024,Premier League,Manchester United,Brighton,1,3,0,0,Away Win
+2025-01-19,2024,Premier League,Nottingham Forest,Southampton,3,2,0,0,Home Win
+2025-01-19,2024,Premier League,Everton,Tottenham Hotspur,3,2,0,0,Home Win
+2025-01-19,2024,Premier League,Ipswich Town,Manchester City,0,6,0,0,Away Win
+2025-01-20,2024,Premier League,Chelsea,Wolverhampton Wanderers,3,1,0,0,Home Win
+2025-01-25,2024,Premier League,Liverpool,Ipswich Town,4,1,0,0,Home Win
+2025-01-25,2024,Premier League,Southampton,Newcastle United,1,3,0,0,Away Win
+2025-01-25,2024,Premier League,Bournemouth,Nottingham Forest,5,0,0,0,Home Win
+2025-01-25,2024,Premier League,Manchester City,Chelsea,3,1,0,0,Home Win
+2025-01-26,2024,Premier League,Crystal Palace,Brentford,1,2,0,0,Away Win
+2025-01-26,2024,Premier League,Tottenham Hotspur,Leicester City,1,2,0,0,Away Win
+2025-01-26,2024,Premier League,Aston Villa,West Ham United,1,1,0,0,Draw
+2025-01-26,2024,Premier League,Fulham,Manchester United,0,1,0,0,Away Win
+2025-02-01,2024,Premier League,Nottingham Forest,Brighton,7,0,0,0,Home Win
+2025-02-01,2024,Premier League,Newcastle United,Fulham,1,2,0,0,Away Win
+2025-02-01,2024,Premier League,Everton,Leicester City,4,0,0,0,Home Win
+2025-02-01,2024,Premier League,Bournemouth,Liverpool,0,2,0,0,Away Win
+2025-02-01,2024,Premier League,Ipswich Town,Southampton,1,2,0,0,Away Win
+2025-02-02,2024,Premier League,Manchester United,Crystal Palace,0,2,0,0,Away Win
+2025-02-02,2024,Premier League,Brentford,Tottenham Hotspur,0,2,0,0,Away Win
+2025-02-02,2024,Premier League,Arsenal,Manchester City,5,1,0,0,Home Win
+2025-02-03,2024,Premier League,Chelsea,West Ham United,2,1,0,0,Home Win
+2025-02-12,2024,Premier League,Everton,Liverpool,2,2,0,0,Draw
+2025-02-15,2024,Premier League,Leicester City,Arsenal,0,2,0,0,Away Win
+2025-02-15,2024,Premier League,Southampton,Bournemouth,1,3,0,0,Away Win
+2025-02-15,2024,Premier League,West Ham United,Brentford,0,1,0,0,Away Win
+2025-02-15,2024,Premier League,Aston Villa,Ipswich Town,1,1,0,0,Draw
+2025-02-15,2024,Premier League,Manchester City,Newcastle United,4,0,0,0,Home Win
+2025-02-15,2024,Premier League,Fulham,Nottingham Forest,2,1,0,0,Home Win
+2025-02-15,2024,Premier League,Crystal Palace,Everton,1,2,0,0,Away Win
+2025-02-16,2024,Premier League,Liverpool,Wolverhampton Wanderers,2,1,0,0,Home Win
+2025-02-16,2024,Premier League,Tottenham Hotspur,Manchester United,1,0,0,0,Home Win
+2025-02-19,2024,Premier League,Aston Villa,Liverpool,2,2,0,0,Draw
+2025-02-21,2024,Premier League,Leicester City,Brentford,0,4,0,0,Away Win
+2025-02-22,2024,Premier League,Everton,Manchester United,2,2,0,0,Draw
+2025-02-22,2024,Premier League,Ipswich Town,Tottenham Hotspur,1,4,0,0,Away Win
+2025-02-22,2024,Premier League,Fulham,Crystal Palace,0,2,0,0,Away Win
+2025-02-22,2024,Premier League,Arsenal,West Ham United,0,1,0,0,Away Win
+2025-02-22,2024,Premier League,Bournemouth,Wolverhampton Wanderers,0,1,0,0,Away Win
+2025-02-22,2024,Premier League,Southampton,Brighton,0,4,0,0,Away Win
+2025-02-22,2024,Premier League,Aston Villa,Chelsea,2,1,0,0,Home Win
+2025-02-23,2024,Premier League,Newcastle United,Nottingham Forest,4,3,0,0,Home Win
+2025-02-23,2024,Premier League,Manchester City,Liverpool,0,2,0,0,Away Win
+2025-02-25,2024,Premier League,Crystal Palace,Aston Villa,4,1,0,0,Home Win
+2025-02-25,2024,Premier League,Chelsea,Southampton,4,0,0,0,Home Win
+2025-02-26,2024,Premier League,Nottingham Forest,Arsenal,0,0,0,0,Draw
+2025-02-26,2024,Premier League,Brentford,Everton,1,1,0,0,Draw
+2025-02-26,2024,Premier League,Tottenham Hotspur,Manchester City,0,1,0,0,Away Win
+2025-02-26,2024,Premier League,Manchester United,Ipswich Town,3,2,0,0,Home Win
+2025-02-26,2024,Premier League,Liverpool,Newcastle United,2,0,0,0,Home Win
+2025-02-27,2024,Premier League,West Ham United,Leicester City,2,0,0,0,Home Win
+2025-03-08,2024,Premier League,Nottingham Forest,Manchester City,1,0,0,0,Home Win
+2025-03-08,2024,Premier League,Crystal Palace,Ipswich Town,1,0,0,0,Home Win
+2025-03-08,2024,Premier League,Liverpool,Southampton,3,1,0,0,Home Win
+2025-03-08,2024,Premier League,Brentford,Aston Villa,0,1,0,0,Away Win
+2025-03-09,2024,Premier League,Tottenham Hotspur,Bournemouth,2,2,0,0,Draw
+2025-03-09,2024,Premier League,Chelsea,Leicester City,1,0,0,0,Home Win
+2025-03-09,2024,Premier League,Manchester United,Arsenal,1,1,0,0,Draw
+2025-03-10,2024,Premier League,West Ham United,Newcastle United,0,1,0,0,Away Win
+2025-03-15,2024,Premier League,Everton,West Ham United,1,1,0,0,Draw
+2025-03-15,2024,Premier League,Ipswich Town,Nottingham Forest,2,4,0,0,Away Win
+2025-03-15,2024,Premier League,Manchester City,Brighton,2,2,0,0,Draw
+2025-03-15,2024,Premier League,Southampton,Wolverhampton Wanderers,1,2,0,0,Away Win
+2025-03-15,2024,Premier League,Bournemouth,Brentford,1,2,0,0,Away Win
+2025-03-16,2024,Premier League,Arsenal,Chelsea,1,0,0,0,Home Win
+2025-03-16,2024,Premier League,Fulham,Tottenham Hotspur,2,0,0,0,Home Win
+2025-03-16,2024,Premier League,Leicester City,Manchester United,0,3,0,0,Away Win
+2025-04-01,2024,Premier League,Arsenal,Fulham,2,1,0,0,Home Win
+2025-04-01,2024,Premier League,Nottingham Forest,Manchester United,1,0,0,0,Home Win
+2025-04-02,2024,Premier League,Bournemouth,Ipswich Town,1,2,0,0,Away Win
+2025-04-02,2024,Premier League,Manchester City,Leicester City,2,0,0,0,Home Win
+2025-04-02,2024,Premier League,Newcastle United,Brentford,2,1,0,0,Home Win
+2025-04-02,2024,Premier League,Southampton,Crystal Palace,1,1,0,0,Draw
+2025-04-02,2024,Premier League,Liverpool,Everton,1,0,0,0,Home Win
+2025-04-03,2024,Premier League,Chelsea,Tottenham Hotspur,1,0,0,0,Home Win
+2025-04-05,2024,Premier League,Everton,Arsenal,1,1,0,0,Draw
+2025-04-05,2024,Premier League,Crystal Palace,Brighton,2,1,0,0,Home Win
+2025-04-05,2024,Premier League,Ipswich Town,Wolverhampton Wanderers,1,2,0,0,Away Win
+2025-04-05,2024,Premier League,West Ham United,Bournemouth,2,2,0,0,Draw
+2025-04-05,2024,Premier League,Aston Villa,Nottingham Forest,2,1,0,0,Home Win
+2025-04-06,2024,Premier League,Brentford,Chelsea,0,0,0,0,Draw
+2025-04-06,2024,Premier League,Fulham,Liverpool,3,2,0,0,Home Win
+2025-04-06,2024,Premier League,Tottenham Hotspur,Southampton,3,1,0,0,Home Win
+2025-04-06,2024,Premier League,Manchester United,Manchester City,0,0,0,0,Draw
+2025-04-07,2024,Premier League,Leicester City,Newcastle United,0,3,0,0,Away Win
+2025-04-12,2024,Premier League,Manchester City,Crystal Palace,5,2,0,0,Home Win
+2025-04-12,2024,Premier League,Nottingham Forest,Everton,0,1,0,0,Away Win
+2025-04-12,2024,Premier League,Southampton,Aston Villa,0,3,0,0,Away Win
+2025-04-12,2024,Premier League,Arsenal,Brentford,1,1,0,0,Draw
+2025-04-13,2024,Premier League,Chelsea,Ipswich Town,2,2,0,0,Draw
+2025-04-13,2024,Premier League,Liverpool,West Ham United,2,1,0,0,Home Win
+2025-04-13,2024,Premier League,Newcastle United,Manchester United,4,1,0,0,Home Win
+2025-04-14,2024,Premier League,Bournemouth,Fulham,1,0,0,0,Home Win
+2025-04-16,2024,Premier League,Newcastle United,Crystal Palace,5,0,0,0,Home Win
+2025-04-19,2024,Premier League,Brentford,Brighton,4,2,0,0,Home Win
+2025-04-19,2024,Premier League,Crystal Palace,Bournemouth,0,0,0,0,Draw
+2025-04-19,2024,Premier League,Everton,Manchester City,0,2,0,0,Away Win
+2025-04-19,2024,Premier League,West Ham United,Southampton,1,1,0,0,Draw
+2025-04-19,2024,Premier League,Aston Villa,Newcastle United,4,1,0,0,Home Win
+2025-04-20,2024,Premier League,Fulham,Chelsea,1,2,0,0,Away Win
+2025-04-20,2024,Premier League,Ipswich Town,Arsenal,0,4,0,0,Away Win
+2025-04-20,2024,Premier League,Manchester United,Wolverhampton Wanderers,0,1,0,0,Away Win
+2025-04-20,2024,Premier League,Leicester City,Liverpool,0,1,0,0,Away Win
+2025-04-21,2024,Premier League,Tottenham Hotspur,Nottingham Forest,1,2,0,0,Away Win
+2025-04-22,2024,Premier League,Manchester City,Aston Villa,2,1,0,0,Home Win
+2025-04-23,2024,Premier League,Arsenal,Crystal Palace,2,2,0,0,Draw
+2025-04-26,2024,Premier League,Chelsea,Everton,1,0,0,0,Home Win
+2025-04-26,2024,Premier League,Newcastle United,Ipswich Town,3,0,0,0,Home Win
+2025-04-26,2024,Premier League,Southampton,Fulham,1,2,0,0,Away Win
+2025-04-27,2024,Premier League,Bournemouth,Manchester United,1,1,0,0,Draw
+2025-04-27,2024,Premier League,Liverpool,Tottenham Hotspur,5,1,0,0,Home Win
+2025-05-01,2024,Premier League,Nottingham Forest,Brentford,0,2,0,0,Away Win
+2025-05-02,2024,Premier League,Manchester City,Wolverhampton Wanderers,1,0,0,0,Home Win
+2025-05-03,2024,Premier League,Aston Villa,Fulham,1,0,0,0,Home Win
+2025-05-03,2024,Premier League,Everton,Ipswich Town,2,2,0,0,Draw
+2025-05-03,2024,Premier League,Leicester City,Southampton,2,0,0,0,Home Win
+2025-05-03,2024,Premier League,Arsenal,Bournemouth,1,2,0,0,Away Win
+2025-05-04,2024,Premier League,Brentford,Manchester United,4,3,0,0,Home Win
+2025-05-04,2024,Premier League,West Ham United,Tottenham Hotspur,1,1,0,0,Draw
+2025-05-04,2024,Premier League,Chelsea,Liverpool,3,1,0,0,Home Win
+2025-05-05,2024,Premier League,Crystal Palace,Nottingham Forest,1,1,0,0,Draw
+2025-05-10,2024,Premier League,Fulham,Everton,1,3,0,0,Away Win
+2025-05-10,2024,Premier League,Ipswich Town,Brentford,0,1,0,0,Away Win
+2025-05-10,2024,Premier League,Southampton,Manchester City,0,0,0,0,Draw
+2025-05-10,2024,Premier League,Bournemouth,Aston Villa,0,1,0,0,Away Win
+2025-05-11,2024,Premier League,Newcastle United,Chelsea,2,0,0,0,Home Win
+2025-05-11,2024,Premier League,Manchester United,West Ham United,0,2,0,0,Away Win
+2025-05-11,2024,Premier League,Nottingham Forest,Leicester City,2,2,0,0,Draw
+2025-05-11,2024,Premier League,Tottenham Hotspur,Crystal Palace,0,2,0,0,Away Win
+2025-05-11,2024,Premier League,Liverpool,Arsenal,2,2,0,0,Draw
+2025-05-16,2024,Premier League,Aston Villa,Tottenham Hotspur,2,0,0,0,Home Win
+2025-05-16,2024,Premier League,Chelsea,Manchester United,1,0,0,0,Home Win
+2025-05-18,2024,Premier League,Everton,Southampton,2,0,0,0,Home Win
+2025-05-18,2024,Premier League,West Ham United,Nottingham Forest,1,2,0,0,Away Win
+2025-05-18,2024,Premier League,Brentford,Fulham,2,3,0,0,Away Win
+2025-05-18,2024,Premier League,Leicester City,Ipswich Town,2,0,0,0,Home Win
+2025-05-18,2024,Premier League,Arsenal,Newcastle United,1,0,0,0,Home Win
+2025-05-20,2024,Premier League,Crystal Palace,Wolverhampton Wanderers,4,2,0,0,Home Win
+2025-05-20,2024,Premier League,Manchester City,Bournemouth,3,1,0,0,Home Win
+2025-05-25,2024,Premier League,Bournemouth,Leicester City,2,0,0,0,Home Win
+2025-05-25,2024,Premier League,Fulham,Manchester City,0,2,0,0,Away Win
+2025-05-25,2024,Premier League,Ipswich Town,West Ham United,1,3,0,0,Away Win
+2025-05-25,2024,Premier League,Liverpool,Crystal Palace,1,1,0,0,Draw
+2025-05-25,2024,Premier League,Manchester United,Aston Villa,2,0,0,0,Home Win
+2025-05-25,2024,Premier League,Newcastle United,Everton,0,1,0,0,Away Win
+2025-05-25,2024,Premier League,Nottingham Forest,Chelsea,0,1,0,0,Away Win
+2025-05-25,2024,Premier League,Southampton,Arsenal,1,2,0,0,Away Win
+2025-05-25,2024,Premier League,Tottenham Hotspur,Brighton,1,4,0,0,Away Win
+2025-08-15,2025,Premier League,Liverpool,Bournemouth,4,2,0,0,Home Win
+2025-08-16,2025,Premier League,Aston Villa,Newcastle United,0,0,0,0,Draw
+2025-08-16,2025,Premier League,Sunderland,West Ham United,3,0,0,0,Home Win
+2025-08-16,2025,Premier League,Tottenham Hotspur,Burnley,3,0,0,0,Home Win
+2025-08-17,2025,Premier League,Nottingham Forest,Brentford,3,1,0,0,Home Win
+2025-08-17,2025,Premier League,Chelsea,Crystal Palace,0,0,0,0,Draw
+2025-08-17,2025,Premier League,Manchester United,Arsenal,0,1,0,0,Away Win
+2025-08-18,2025,Premier League,Leeds United,Everton,1,0,0,0,Home Win
+2025-08-22,2025,Premier League,West Ham United,Chelsea,1,5,0,0,Away Win
+2025-08-23,2025,Premier League,Manchester City,Tottenham Hotspur,0,2,0,0,Away Win
+2025-08-23,2025,Premier League,Bournemouth,Wolverhampton Wanderers,1,0,0,0,Home Win
+2025-08-23,2025,Premier League,Brentford,Aston Villa,1,0,0,0,Home Win
+2025-08-23,2025,Premier League,Burnley,Sunderland,2,0,0,0,Home Win
+2025-08-23,2025,Premier League,Arsenal,Leeds United,5,0,0,0,Home Win
+2025-08-24,2025,Premier League,Crystal Palace,Nottingham Forest,1,1,0,0,Draw
+2025-08-24,2025,Premier League,Everton,Brighton,2,0,0,0,Home Win
+2025-08-24,2025,Premier League,Fulham,Manchester United,1,1,0,0,Draw
+2025-08-25,2025,Premier League,Newcastle United,Liverpool,2,3,0,0,Away Win
+2025-08-30,2025,Premier League,Chelsea,Fulham,2,0,0,0,Home Win
+2025-08-30,2025,Premier League,Sunderland,Brentford,2,1,0,0,Home Win
+2025-08-30,2025,Premier League,Manchester United,Burnley,3,2,0,0,Home Win
+2025-08-30,2025,Premier League,Tottenham Hotspur,Bournemouth,0,1,0,0,Away Win
+2025-08-30,2025,Premier League,Leeds United,Newcastle United,0,0,0,0,Draw
+2025-08-31,2025,Premier League,Nottingham Forest,West Ham United,0,3,0,0,Away Win
+2025-08-31,2025,Premier League,Liverpool,Arsenal,1,0,0,0,Home Win
+2025-08-31,2025,Premier League,Aston Villa,Crystal Palace,0,3,0,0,Away Win
+2025-09-13,2025,Premier League,Arsenal,Nottingham Forest,3,0,0,0,Home Win
+2025-09-13,2025,Premier League,Bournemouth,Brighton,2,1,0,0,Home Win
+2025-09-13,2025,Premier League,Crystal Palace,Sunderland,0,0,0,0,Draw
+2025-09-13,2025,Premier League,Everton,Aston Villa,0,0,0,0,Draw
+2025-09-13,2025,Premier League,Fulham,Leeds United,1,0,0,0,Home Win
+2025-09-13,2025,Premier League,Newcastle United,Wolverhampton Wanderers,1,0,0,0,Home Win
+2025-09-13,2025,Premier League,West Ham United,Tottenham Hotspur,0,3,0,0,Away Win
+2025-09-13,2025,Premier League,Brentford,Chelsea,2,2,0,0,Draw
+2025-09-14,2025,Premier League,Burnley,Liverpool,0,1,0,0,Away Win
+2025-09-14,2025,Premier League,Manchester City,Manchester United,3,0,0,0,Home Win
+2025-09-20,2025,Premier League,Liverpool,Everton,2,1,0,0,Home Win
+2025-09-20,2025,Premier League,Burnley,Nottingham Forest,1,1,0,0,Draw
+2025-09-20,2025,Premier League,West Ham United,Crystal Palace,1,2,0,0,Away Win
+2025-09-20,2025,Premier League,Manchester United,Chelsea,2,1,0,0,Home Win
+2025-09-20,2025,Premier League,Fulham,Brentford,3,1,0,0,Home Win
+2025-09-21,2025,Premier League,Bournemouth,Newcastle United,0,0,0,0,Draw
+2025-09-21,2025,Premier League,Sunderland,Aston Villa,1,1,0,0,Draw
+2025-09-21,2025,Premier League,Arsenal,Manchester City,1,1,0,0,Draw
+2025-09-27,2025,Premier League,Brentford,Manchester United,3,1,0,0,Home Win
+2025-09-27,2025,Premier League,Crystal Palace,Liverpool,2,1,0,0,Home Win
+2025-09-27,2025,Premier League,Chelsea,Brighton,1,3,0,0,Away Win
+2025-09-27,2025,Premier League,Leeds United,Bournemouth,2,2,0,0,Draw
+2025-09-27,2025,Premier League,Manchester City,Burnley,5,1,0,0,Home Win
+2025-09-27,2025,Premier League,Nottingham Forest,Sunderland,0,1,0,0,Away Win
+2025-09-27,2025,Premier League,Tottenham Hotspur,Wolverhampton Wanderers,1,1,0,0,Draw
+2025-09-28,2025,Premier League,Aston Villa,Fulham,3,1,0,0,Home Win
+2025-09-28,2025,Premier League,Newcastle United,Arsenal,1,2,0,0,Away Win
+2025-09-29,2025,Premier League,Everton,West Ham United,1,1,0,0,Draw
+2025-10-03,2025,Premier League,Bournemouth,Fulham,3,1,0,0,Home Win
+2025-10-04,2025,Premier League,Leeds United,Tottenham Hotspur,1,2,0,0,Away Win
+2025-10-04,2025,Premier League,Arsenal,West Ham United,2,0,0,0,Home Win
+2025-10-04,2025,Premier League,Manchester United,Sunderland,2,0,0,0,Home Win
+2025-10-04,2025,Premier League,Chelsea,Liverpool,2,1,0,0,Home Win
+2025-10-05,2025,Premier League,Aston Villa,Burnley,2,1,0,0,Home Win
+2025-10-05,2025,Premier League,Everton,Crystal Palace,2,1,0,0,Home Win
+2025-10-05,2025,Premier League,Newcastle United,Nottingham Forest,2,0,0,0,Home Win
+2025-10-05,2025,Premier League,Brentford,Manchester City,0,1,0,0,Away Win
+2025-10-18,2025,Premier League,Nottingham Forest,Chelsea,0,3,0,0,Away Win
+2025-10-18,2025,Premier League,Crystal Palace,Bournemouth,3,3,0,0,Draw
+2025-10-18,2025,Premier League,Burnley,Leeds United,2,0,0,0,Home Win
+2025-10-18,2025,Premier League,Manchester City,Everton,2,0,0,0,Home Win
+2025-10-18,2025,Premier League,Sunderland,Wolverhampton Wanderers,2,0,0,0,Home Win
+2025-10-18,2025,Premier League,Fulham,Arsenal,0,1,0,0,Away Win
+2025-10-19,2025,Premier League,Tottenham Hotspur,Aston Villa,1,2,0,0,Away Win
+2025-10-19,2025,Premier League,Liverpool,Manchester United,1,2,0,0,Away Win
+2025-10-20,2025,Premier League,West Ham United,Brentford,0,2,0,0,Away Win
+2025-10-24,2025,Premier League,Leeds United,West Ham United,2,1,0,0,Home Win
+2025-10-25,2025,Premier League,Chelsea,Sunderland,1,2,0,0,Away Win
+2025-10-25,2025,Premier League,Newcastle United,Fulham,2,1,0,0,Home Win
+2025-10-25,2025,Premier League,Manchester United,Brighton,4,2,0,0,Home Win
+2025-10-25,2025,Premier League,Brentford,Liverpool,3,2,0,0,Home Win
+2025-10-26,2025,Premier League,Bournemouth,Nottingham Forest,2,0,0,0,Home Win
+2025-10-26,2025,Premier League,Aston Villa,Manchester City,1,0,0,0,Home Win
+2025-10-26,2025,Premier League,Arsenal,Crystal Palace,1,0,0,0,Home Win
+2025-10-26,2025,Premier League,Everton,Tottenham Hotspur,0,3,0,0,Away Win
+2025-11-01,2025,Premier League,Crystal Palace,Brentford,2,0,0,0,Home Win
+2025-11-01,2025,Premier League,Burnley,Arsenal,0,2,0,0,Away Win
+2025-11-01,2025,Premier League,Fulham,Wolverhampton Wanderers,3,0,0,0,Home Win
+2025-11-01,2025,Premier League,Nottingham Forest,Manchester United,2,2,0,0,Draw
+2025-11-01,2025,Premier League,Tottenham Hotspur,Chelsea,0,1,0,0,Away Win
+2025-11-01,2025,Premier League,Liverpool,Aston Villa,2,0,0,0,Home Win
+2025-11-02,2025,Premier League,West Ham United,Newcastle United,3,1,0,0,Home Win
+2025-11-02,2025,Premier League,Manchester City,Bournemouth,3,1,0,0,Home Win
+2025-11-03,2025,Premier League,Sunderland,Everton,1,1,0,0,Draw
+2025-11-08,2025,Premier League,Tottenham Hotspur,Manchester United,2,2,0,0,Draw
+2025-11-08,2025,Premier League,Everton,Fulham,2,0,0,0,Home Win
+2025-11-08,2025,Premier League,West Ham United,Burnley,3,2,0,0,Home Win
+2025-11-08,2025,Premier League,Sunderland,Arsenal,2,2,0,0,Draw
+2025-11-08,2025,Premier League,Chelsea,Wolverhampton Wanderers,3,0,0,0,Home Win
+2025-11-09,2025,Premier League,Aston Villa,Bournemouth,4,0,0,0,Home Win
+2025-11-09,2025,Premier League,Crystal Palace,Brighton,0,0,0,0,Draw
+2025-11-09,2025,Premier League,Brentford,Newcastle United,3,1,0,0,Home Win
+2025-11-09,2025,Premier League,Nottingham Forest,Leeds United,3,1,0,0,Home Win
+2025-11-09,2025,Premier League,Manchester City,Liverpool,3,0,0,0,Home Win
+2025-11-22,2025,Premier League,Burnley,Chelsea,0,2,0,0,Away Win
+2025-11-22,2025,Premier League,Bournemouth,West Ham United,2,2,0,0,Draw
+2025-11-22,2025,Premier League,Fulham,Sunderland,1,0,0,0,Home Win
+2025-11-22,2025,Premier League,Liverpool,Nottingham Forest,0,3,0,0,Away Win
+2025-11-22,2025,Premier League,Newcastle United,Manchester City,2,1,0,0,Home Win
+2025-11-23,2025,Premier League,Leeds United,Aston Villa,1,2,0,0,Away Win
+2025-11-23,2025,Premier League,Arsenal,Tottenham Hotspur,4,1,0,0,Home Win
+2025-11-24,2025,Premier League,Manchester United,Everton,0,1,0,0,Away Win
+2025-11-29,2025,Premier League,Sunderland,Bournemouth,3,2,0,0,Home Win
+2025-11-29,2025,Premier League,Brentford,Burnley,3,1,0,0,Home Win
+2025-11-29,2025,Premier League,Manchester City,Leeds United,3,2,0,0,Home Win
+2025-11-29,2025,Premier League,Everton,Newcastle United,1,4,0,0,Away Win
+2025-11-29,2025,Premier League,Tottenham Hotspur,Fulham,1,2,0,0,Away Win
+2025-11-30,2025,Premier League,Crystal Palace,Manchester United,1,2,0,0,Away Win
+2025-11-30,2025,Premier League,Aston Villa,Wolverhampton Wanderers,1,0,0,0,Home Win
+2025-11-30,2025,Premier League,Nottingham Forest,Brighton,0,2,0,0,Away Win
+2025-11-30,2025,Premier League,West Ham United,Liverpool,0,2,0,0,Away Win
+2025-11-30,2025,Premier League,Chelsea,Arsenal,1,1,0,0,Draw
+2025-12-02,2025,Premier League,Bournemouth,Everton,0,1,0,0,Away Win
+2025-12-02,2025,Premier League,Fulham,Manchester City,4,5,0,0,Away Win
+2025-12-02,2025,Premier League,Newcastle United,Tottenham Hotspur,2,2,0,0,Draw
+2025-12-03,2025,Premier League,Arsenal,Brentford,2,0,0,0,Home Win
+2025-12-03,2025,Premier League,Burnley,Crystal Palace,0,1,0,0,Away Win
+2025-12-03,2025,Premier League,Liverpool,Sunderland,1,1,0,0,Draw
+2025-12-03,2025,Premier League,Leeds United,Chelsea,3,1,0,0,Home Win
+2025-12-04,2025,Premier League,Manchester United,West Ham United,1,1,0,0,Draw
+2025-12-06,2025,Premier League,Aston Villa,Arsenal,2,1,0,0,Home Win
+2025-12-06,2025,Premier League,Bournemouth,Chelsea,0,0,0,0,Draw
+2025-12-06,2025,Premier League,Everton,Nottingham Forest,3,0,0,0,Home Win
+2025-12-06,2025,Premier League,Manchester City,Sunderland,3,0,0,0,Home Win
+2025-12-06,2025,Premier League,Newcastle United,Burnley,2,1,0,0,Home Win
+2025-12-06,2025,Premier League,Tottenham Hotspur,Brentford,2,0,0,0,Home Win
+2025-12-06,2025,Premier League,Leeds United,Liverpool,3,3,0,0,Draw
+2025-12-07,2025,Premier League,Fulham,Crystal Palace,1,2,0,0,Away Win
+2025-12-13,2025,Premier League,Chelsea,Everton,2,0,0,0,Home Win
+2025-12-13,2025,Premier League,Liverpool,Brighton,2,0,0,0,Home Win
+2025-12-13,2025,Premier League,Burnley,Fulham,2,3,0,0,Away Win
+2025-12-13,2025,Premier League,Arsenal,Wolverhampton Wanderers,2,1,0,0,Home Win
+2025-12-14,2025,Premier League,Sunderland,Newcastle United,1,0,0,0,Home Win
+2025-12-14,2025,Premier League,Crystal Palace,Manchester City,0,3,0,0,Away Win
+2025-12-14,2025,Premier League,Nottingham Forest,Tottenham Hotspur,3,0,0,0,Home Win
+2025-12-14,2025,Premier League,West Ham United,Aston Villa,2,3,0,0,Away Win
+2025-12-14,2025,Premier League,Brentford,Leeds United,1,1,0,0,Draw
+2025-12-15,2025,Premier League,Manchester United,Bournemouth,4,4,0,0,Draw
+2025-12-20,2025,Premier League,Newcastle United,Chelsea,2,2,0,0,Draw
+2025-12-20,2025,Premier League,Bournemouth,Burnley,1,1,0,0,Draw
+2025-12-20,2025,Premier League,Manchester City,West Ham United,3,0,0,0,Home Win
+2025-12-20,2025,Premier League,Tottenham Hotspur,Liverpool,1,2,0,0,Away Win
+2025-12-20,2025,Premier League,Everton,Arsenal,0,1,0,0,Away Win
+2025-12-20,2025,Premier League,Leeds United,Crystal Palace,4,1,0,0,Home Win
+2025-12-21,2025,Premier League,Aston Villa,Manchester United,2,1,0,0,Home Win
+2025-12-22,2025,Premier League,Fulham,Nottingham Forest,1,0,0,0,Home Win
+2025-12-26,2025,Premier League,Manchester United,Newcastle United,1,0,0,0,Home Win
+2025-12-27,2025,Premier League,Nottingham Forest,Manchester City,1,2,0,0,Away Win
+2025-12-27,2025,Premier League,Arsenal,Brighton,2,1,0,0,Home Win
+2025-12-27,2025,Premier League,Brentford,Bournemouth,4,1,0,0,Home Win
+2025-12-27,2025,Premier League,Burnley,Everton,0,0,0,0,Draw
+2025-12-27,2025,Premier League,Liverpool,Wolverhampton Wanderers,2,1,0,0,Home Win
+2025-12-27,2025,Premier League,West Ham United,Fulham,0,1,0,0,Away Win
+2025-12-27,2025,Premier League,Chelsea,Aston Villa,1,2,0,0,Away Win
+2025-12-28,2025,Premier League,Sunderland,Leeds United,1,1,0,0,Draw
+2025-12-28,2025,Premier League,Crystal Palace,Tottenham Hotspur,0,1,0,0,Away Win
+2025-12-30,2025,Premier League,Burnley,Newcastle United,1,3,0,0,Away Win
+2025-12-30,2025,Premier League,Chelsea,Bournemouth,2,2,0,0,Draw
+2025-12-30,2025,Premier League,Nottingham Forest,Everton,0,2,0,0,Away Win
+2025-12-30,2025,Premier League,West Ham United,Brighton,2,2,0,0,Draw
+2025-12-30,2025,Premier League,Arsenal,Aston Villa,4,1,0,0,Home Win
+2025-12-30,2025,Premier League,Manchester United,Wolverhampton Wanderers,1,1,0,0,Draw
+2026-01-01,2025,Premier League,Crystal Palace,Fulham,1,1,0,0,Draw
+2026-01-01,2025,Premier League,Liverpool,Leeds United,0,0,0,0,Draw
+2026-01-01,2025,Premier League,Sunderland,Manchester City,0,0,0,0,Draw
+2026-01-01,2025,Premier League,Brentford,Tottenham Hotspur,0,0,0,0,Draw
+2026-01-03,2025,Premier League,Aston Villa,Nottingham Forest,3,1,0,0,Home Win
+2026-01-03,2025,Premier League,Bournemouth,Arsenal,2,3,0,0,Away Win
+2026-01-04,2025,Premier League,Leeds United,Manchester United,1,1,0,0,Draw
+2026-01-04,2025,Premier League,Everton,Brentford,2,4,0,0,Away Win
+2026-01-04,2025,Premier League,Newcastle United,Crystal Palace,2,0,0,0,Home Win
+2026-01-04,2025,Premier League,Tottenham Hotspur,Sunderland,1,1,0,0,Draw
+2026-01-04,2025,Premier League,Fulham,Liverpool,2,2,0,0,Draw
+2026-01-04,2025,Premier League,Manchester City,Chelsea,1,1,0,0,Draw
+2026-01-06,2025,Premier League,West Ham United,Nottingham Forest,1,2,0,0,Away Win
+2026-01-07,2025,Premier League,Bournemouth,Tottenham Hotspur,3,2,0,0,Home Win
+2026-01-07,2025,Premier League,Crystal Palace,Aston Villa,0,0,0,0,Draw
+2026-01-07,2025,Premier League,Brentford,Sunderland,3,0,0,0,Home Win
+2026-01-07,2025,Premier League,Everton,Wolverhampton Wanderers,1,1,0,0,Draw
+2026-01-07,2025,Premier League,Fulham,Chelsea,2,1,0,0,Home Win
+2026-01-07,2025,Premier League,Manchester City,Brighton,1,1,0,0,Draw
+2026-01-07,2025,Premier League,Burnley,Manchester United,2,2,0,0,Draw
+2026-01-07,2025,Premier League,Newcastle United,Leeds United,4,3,0,0,Home Win
+2026-01-08,2025,Premier League,Arsenal,Liverpool,0,0,0,0,Draw
+2026-01-17,2025,Premier League,Manchester United,Manchester City,2,0,0,0,Home Win
+2026-01-17,2025,Premier League,Sunderland,Crystal Palace,2,1,0,0,Home Win
+2026-01-17,2025,Premier League,Chelsea,Brentford,2,0,0,0,Home Win
+2026-01-17,2025,Premier League,Liverpool,Burnley,1,1,0,0,Draw
+2026-01-17,2025,Premier League,Leeds United,Fulham,1,0,0,0,Home Win
+2026-01-17,2025,Premier League,Tottenham Hotspur,West Ham United,1,2,0,0,Away Win
+2026-01-17,2025,Premier League,Nottingham Forest,Arsenal,0,0,0,0,Draw
+2026-01-18,2025,Premier League,Aston Villa,Everton,0,1,0,0,Away Win
+2026-01-24,2025,Premier League,West Ham United,Sunderland,3,1,0,0,Home Win
+2026-01-24,2025,Premier League,Burnley,Tottenham Hotspur,2,2,0,0,Draw
+2026-01-24,2025,Premier League,Fulham,Brighton,2,1,0,0,Home Win
+2026-01-24,2025,Premier League,Manchester City,Wolverhampton Wanderers,2,0,0,0,Home Win
+2026-01-24,2025,Premier League,Bournemouth,Liverpool,3,2,0,0,Home Win
+2026-01-25,2025,Premier League,Crystal Palace,Chelsea,1,3,0,0,Away Win
+2026-01-25,2025,Premier League,Brentford,Nottingham Forest,0,2,0,0,Away Win
+2026-01-25,2025,Premier League,Newcastle United,Aston Villa,0,2,0,0,Away Win
+2026-01-25,2025,Premier League,Arsenal,Manchester United,2,3,0,0,Away Win
+2026-01-26,2025,Premier League,Everton,Leeds United,1,1,0,0,Draw
+2026-01-31,2025,Premier League,Leeds United,Arsenal,0,4,0,0,Away Win
+2026-01-31,2025,Premier League,Chelsea,West Ham United,3,2,0,0,Home Win
+2026-01-31,2025,Premier League,Liverpool,Newcastle United,4,1,0,0,Home Win
+2026-02-01,2025,Premier League,Aston Villa,Brentford,0,1,0,0,Away Win
+2026-02-01,2025,Premier League,Manchester United,Fulham,3,2,0,0,Home Win
+2026-02-01,2025,Premier League,Nottingham Forest,Crystal Palace,1,1,0,0,Draw
+2026-02-01,2025,Premier League,Tottenham Hotspur,Manchester City,2,2,0,0,Draw
+2026-02-02,2025,Premier League,Sunderland,Burnley,3,0,0,0,Home Win
+2026-02-06,2025,Premier League,Leeds United,Nottingham Forest,3,1,0,0,Home Win
+2026-02-07,2025,Premier League,Manchester United,Tottenham Hotspur,2,0,0,0,Home Win
+2026-02-07,2025,Premier League,Bournemouth,Aston Villa,1,1,0,0,Draw
+2026-02-07,2025,Premier League,Arsenal,Sunderland,3,0,0,0,Home Win
+2026-02-07,2025,Premier League,Burnley,West Ham United,0,2,0,0,Away Win
+2026-02-07,2025,Premier League,Fulham,Everton,1,2,0,0,Away Win
+2026-02-07,2025,Premier League,Newcastle United,Brentford,2,3,0,0,Away Win
+2026-02-08,2025,Premier League,Liverpool,Manchester City,1,2,0,0,Away Win
+2026-02-10,2025,Premier League,Chelsea,Leeds United,2,2,0,0,Draw
+2026-02-10,2025,Premier League,Everton,Bournemouth,1,2,0,0,Away Win
+2026-02-10,2025,Premier League,Tottenham Hotspur,Newcastle United,1,2,0,0,Away Win
+2026-02-10,2025,Premier League,West Ham United,Manchester United,1,1,0,0,Draw
+2026-02-11,2025,Premier League,Aston Villa,Brighton,1,0,0,0,Home Win
+2026-02-11,2025,Premier League,Manchester City,Fulham,3,0,0,0,Home Win
+2026-02-11,2025,Premier League,Nottingham Forest,Wolverhampton Wanderers,0,0,0,0,Draw
+2026-02-11,2025,Premier League,Crystal Palace,Burnley,2,3,0,0,Away Win
+2026-02-11,2025,Premier League,Sunderland,Liverpool,0,1,0,0,Away Win
+2026-02-12,2025,Premier League,Brentford,Arsenal,1,1,0,0,Draw
+2026-02-21,2025,Premier League,Aston Villa,Leeds United,1,1,0,0,Draw
+2026-02-21,2025,Premier League,Brentford,Brighton,0,2,0,0,Away Win
+2026-02-21,2025,Premier League,Chelsea,Burnley,1,1,0,0,Draw
+2026-02-21,2025,Premier League,West Ham United,Bournemouth,0,0,0,0,Draw
+2026-02-21,2025,Premier League,Manchester City,Newcastle United,2,1,0,0,Home Win
+2026-02-22,2025,Premier League,Sunderland,Fulham,1,3,0,0,Away Win
+2026-02-22,2025,Premier League,Crystal Palace,Wolverhampton Wanderers,1,0,0,0,Home Win
+2026-02-22,2025,Premier League,Nottingham Forest,Liverpool,0,1,0,0,Away Win
+2026-02-22,2025,Premier League,Tottenham Hotspur,Arsenal,1,4,0,0,Away Win
+2026-02-23,2025,Premier League,Everton,Manchester United,0,1,0,0,Away Win
+2026-02-28,2025,Premier League,Bournemouth,Sunderland,1,1,0,0,Draw
+2026-02-28,2025,Premier League,Burnley,Brentford,3,4,0,0,Away Win
+2026-02-28,2025,Premier League,Liverpool,West Ham United,5,2,0,0,Home Win
+2026-02-28,2025,Premier League,Newcastle United,Everton,2,3,0,0,Away Win
+2026-02-28,2025,Premier League,Leeds United,Manchester City,0,1,0,0,Away Win
+2026-03-01,2025,Premier League,Fulham,Tottenham Hotspur,2,1,0,0,Home Win
+2026-03-01,2025,Premier League,Manchester United,Crystal Palace,2,1,0,0,Home Win
+2026-03-01,2025,Premier League,Arsenal,Chelsea,2,1,0,0,Home Win
+2026-03-03,2025,Premier League,Bournemouth,Brentford,0,0,0,0,Draw
+2026-03-03,2025,Premier League,Everton,Burnley,2,0,0,0,Home Win
+2026-03-03,2025,Premier League,Leeds United,Sunderland,0,1,0,0,Away Win
+2026-03-04,2025,Premier League,Aston Villa,Chelsea,1,4,0,0,Away Win
+2026-03-04,2025,Premier League,Fulham,West Ham United,0,1,0,0,Away Win
+2026-03-04,2025,Premier League,Manchester City,Nottingham Forest,2,2,0,0,Draw
+2026-03-04,2025,Premier League,Newcastle United,Manchester United,2,1,0,0,Home Win
+2026-03-05,2025,Premier League,Tottenham Hotspur,Crystal Palace,1,3,0,0,Away Win
+2026-03-14,2025,Premier League,Sunderland,Brighton,0,1,0,0,Away Win
+2026-03-14,2025,Premier League,Burnley,Bournemouth,0,0,0,0,Draw
+2026-03-14,2025,Premier League,Arsenal,Everton,2,0,0,0,Home Win
+2026-03-14,2025,Premier League,Chelsea,Newcastle United,0,1,0,0,Away Win
+2026-03-14,2025,Premier League,West Ham United,Manchester City,1,1,0,0,Draw
+2026-03-15,2025,Premier League,Crystal Palace,Leeds United,0,0,0,0,Draw
+2026-03-15,2025,Premier League,Manchester United,Aston Villa,3,1,0,0,Home Win
+2026-03-15,2025,Premier League,Nottingham Forest,Fulham,0,0,0,0,Draw
+2026-03-15,2025,Premier League,Liverpool,Tottenham Hotspur,1,1,0,0,Draw
+2026-03-16,2025,Premier League,Brentford,Wolverhampton Wanderers,2,2,0,0,Draw
+2026-03-20,2025,Premier League,Bournemouth,Manchester United,2,2,0,0,Draw
+2026-03-21,2025,Premier League,Fulham,Burnley,3,1,0,0,Home Win
+2026-03-21,2025,Premier League,Everton,Chelsea,3,0,0,0,Home Win
+2026-03-21,2025,Premier League,Leeds United,Brentford,0,0,0,0,Draw
+2026-03-22,2025,Premier League,Newcastle United,Sunderland,1,2,0,0,Away Win
+2026-03-22,2025,Premier League,Aston Villa,West Ham United,2,0,0,0,Home Win
+2026-03-22,2025,Premier League,Tottenham Hotspur,Nottingham Forest,0,3,0,0,Away Win
+2026-04-10,2025,Premier League,West Ham United,Wolverhampton Wanderers,4,0,0,0,Home Win
+2026-04-11,2025,Premier League,Arsenal,Bournemouth,1,2,0,0,Away Win
+2026-04-11,2025,Premier League,Brentford,Everton,2,2,0,0,Draw
+2026-04-11,2025,Premier League,Burnley,Brighton,0,2,0,0,Away Win
+2026-04-11,2025,Premier League,Liverpool,Fulham,2,0,0,0,Home Win
+2026-04-12,2025,Premier League,Sunderland,Tottenham Hotspur,1,0,0,0,Home Win
+2026-04-12,2025,Premier League,Crystal Palace,Newcastle United,2,1,0,0,Home Win
+2026-04-12,2025,Premier League,Nottingham Forest,Aston Villa,1,1,0,0,Draw
+2026-04-12,2025,Premier League,Chelsea,Manchester City,0,3,0,0,Away Win
+2026-04-13,2025,Premier League,Manchester United,Leeds United,1,2,0,0,Away Win
+2026-04-18,2025,Premier League,Brentford,Fulham,0,0,0,0,Draw
+2026-04-18,2025,Premier League,Newcastle United,Bournemouth,1,2,0,0,Away Win
+2026-04-18,2025,Premier League,Leeds United,Wolverhampton Wanderers,3,0,0,0,Home Win
+2026-04-18,2025,Premier League,Tottenham Hotspur,Brighton,2,2,0,0,Draw
+2026-04-18,2025,Premier League,Chelsea,Manchester United,0,1,0,0,Away Win
+2026-04-19,2025,Premier League,Nottingham Forest,Burnley,4,1,0,0,Home Win
+2026-04-19,2025,Premier League,Aston Villa,Sunderland,4,3,0,0,Home Win
+2026-04-19,2025,Premier League,Everton,Liverpool,1,2,0,0,Away Win
+2026-04-19,2025,Premier League,Manchester City,Arsenal,2,1,0,0,Home Win
+2026-04-20,2025,Premier League,Crystal Palace,West Ham United,0,0,0,0,Draw
+2026-04-22,2025,Premier League,Bournemouth,Leeds United,2,2,0,0,Draw
+2026-04-22,2025,Premier League,Burnley,Manchester City,0,1,0,0,Away Win
+2026-04-24,2025,Premier League,Sunderland,Nottingham Forest,0,5,0,0,Away Win
+2026-04-25,2025,Premier League,Fulham,Aston Villa,1,0,0,0,Home Win
+2026-04-25,2025,Premier League,Liverpool,Crystal Palace,3,1,0,0,Home Win
+2026-04-25,2025,Premier League,West Ham United,Everton,2,1,0,0,Home Win
+2026-04-25,2025,Premier League,Arsenal,Newcastle United,1,0,0,0,Home Win
+2026-04-27,2025,Premier League,Manchester United,Brentford,2,1,0,0,Home Win
+2026-05-01,2025,Premier League,Leeds United,Burnley,3,1,0,0,Home Win
+2026-05-02,2025,Premier League,Brentford,West Ham United,3,0,0,0,Home Win
+2026-05-02,2025,Premier League,Newcastle United,Brighton,3,1,0,0,Home Win
+2026-05-02,2025,Premier League,Arsenal,Fulham,3,0,0,0,Home Win
+2026-05-03,2025,Premier League,Bournemouth,Crystal Palace,3,0,0,0,Home Win
+2026-05-03,2025,Premier League,Manchester United,Liverpool,3,2,0,0,Home Win
+2026-05-03,2025,Premier League,Aston Villa,Tottenham Hotspur,1,2,0,0,Away Win
+2026-05-04,2025,Premier League,Chelsea,Nottingham Forest,1,3,0,0,Away Win
+2026-05-04,2025,Premier League,Everton,Manchester City,3,3,0,0,Draw
+2026-05-09,2025,Premier League,Liverpool,Chelsea,1,1,0,0,Draw
+2026-05-09,2025,Premier League,Sunderland,Manchester United,0,0,0,0,Draw
+2026-05-09,2025,Premier League,Fulham,Bournemouth,0,1,0,0,Away Win
+2026-05-09,2025,Premier League,Manchester City,Brentford,3,0,0,0,Home Win
+2026-05-10,2025,Premier League,Crystal Palace,Everton,2,2,0,0,Draw
+2026-05-10,2025,Premier League,Burnley,Aston Villa,2,2,0,0,Draw
+2026-05-10,2025,Premier League,Nottingham Forest,Newcastle United,1,1,0,0,Draw
+2026-05-10,2025,Premier League,West Ham United,Arsenal,0,1,0,0,Away Win
+2026-05-11,2025,Premier League,Tottenham Hotspur,Leeds United,1,1,0,0,Draw
+2026-05-13,2025,Premier League,Manchester City,Crystal Palace,3,0,0,0,Home Win
+2026-05-15,2025,Premier League,Aston Villa,Liverpool,4,2,0,0,Home Win
+2026-05-17,2025,Premier League,Manchester United,Nottingham Forest,3,2,0,0,Home Win
+2026-05-17,2025,Premier League,Brentford,Crystal Palace,2,2,0,0,Draw
+2026-05-17,2025,Premier League,Everton,Sunderland,1,3,0,0,Away Win
+2026-05-17,2025,Premier League,Leeds United,Brighton,1,0,0,0,Home Win
+2026-05-17,2025,Premier League,Newcastle United,West Ham United,3,1,0,0,Home Win
+2026-05-18,2025,Premier League,Arsenal,Burnley,1,0,0,0,Home Win
+2026-05-19,2025,Premier League,Bournemouth,Manchester City,1,1,0,0,Draw
+2026-05-19,2025,Premier League,Chelsea,Tottenham Hotspur,2,1,0,0,Home Win
+2026-05-24,2025,Premier League,Sunderland,Chelsea,2,1,0,0,Home Win
+2026-05-24,2025,Premier League,Crystal Palace,Arsenal,1,2,0,0,Away Win
+2026-05-24,2025,Premier League,Burnley,Wolverhampton Wanderers,1,1,0,0,Draw
+2026-05-24,2025,Premier League,Fulham,Newcastle United,2,0,0,0,Home Win
+2026-05-24,2025,Premier League,Liverpool,Brentford,1,1,0,0,Draw
+2026-05-24,2025,Premier League,Manchester City,Aston Villa,1,2,0,0,Away Win
+2026-05-24,2025,Premier League,Nottingham Forest,Bournemouth,1,1,0,0,Draw
+2026-05-24,2025,Premier League,Tottenham Hotspur,Everton,1,0,0,0,Home Win
+2026-05-24,2025,Premier League,West Ham United,Leeds United,3,0,0,0,Home Win
